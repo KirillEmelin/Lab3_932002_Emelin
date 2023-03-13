@@ -1,0 +1,11 @@
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\bin\Debug\Lab3_Emelin.exe.config
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\bin\Debug\Lab3_Emelin.exe
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\bin\Debug\Lab3_Emelin.pdb
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\obj\Debug\Lab3_Emelin.csproj.AssemblyReference.cache
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\obj\Debug\Lab3_Emelin.csproj.SuggestedBindingRedirects.cache
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\obj\Debug\Lab3_Emelin.Form1.resources
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\obj\Debug\Lab3_Emelin.Properties.Resources.resources
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\obj\Debug\Lab3_Emelin.csproj.GenerateResource.cache
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\obj\Debug\Lab3_Emelin.csproj.CoreCompileInputs.cache
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\obj\Debug\Lab3_Emelin.exe
+C:\Users\incog\OneDrive\Рабочий стол\Lab3_Emelin\Elementary-Cellular-Automaton-Lab3-master\ElementaryCellularAutomaton\obj\Debug\Lab3_Emelin.pdb
